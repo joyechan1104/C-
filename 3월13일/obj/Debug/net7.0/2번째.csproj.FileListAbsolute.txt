@@ -1,0 +1,15 @@
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.csproj.AssemblyReference.cache
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.AssemblyInfoInputs.cache
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.AssemblyInfo.cs
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.csproj.CoreCompileInputs.cache
+/Users/yechanjo/c#_programing/2번째/bin/Debug/net7.0/2번째
+/Users/yechanjo/c#_programing/2번째/bin/Debug/net7.0/2번째.deps.json
+/Users/yechanjo/c#_programing/2번째/bin/Debug/net7.0/2번째.runtimeconfig.json
+/Users/yechanjo/c#_programing/2번째/bin/Debug/net7.0/2번째.dll
+/Users/yechanjo/c#_programing/2번째/bin/Debug/net7.0/2번째.pdb
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.dll
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/refint/2번째.dll
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.pdb
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/2번째.genruntimeconfig.cache
+/Users/yechanjo/c#_programing/2번째/obj/Debug/net7.0/ref/2번째.dll
