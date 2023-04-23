@@ -1,0 +1,15 @@
+/Users/yechanjo/c#_programing/4월14일/bin/Debug/net7.0/4월14일
+/Users/yechanjo/c#_programing/4월14일/bin/Debug/net7.0/4월14일.deps.json
+/Users/yechanjo/c#_programing/4월14일/bin/Debug/net7.0/4월14일.runtimeconfig.json
+/Users/yechanjo/c#_programing/4월14일/bin/Debug/net7.0/4월14일.dll
+/Users/yechanjo/c#_programing/4월14일/bin/Debug/net7.0/4월14일.pdb
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.csproj.AssemblyReference.cache
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.AssemblyInfoInputs.cache
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.AssemblyInfo.cs
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.csproj.CoreCompileInputs.cache
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.dll
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/refint/4월14일.dll
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.pdb
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/4월14일.genruntimeconfig.cache
+/Users/yechanjo/c#_programing/4월14일/obj/Debug/net7.0/ref/4월14일.dll
