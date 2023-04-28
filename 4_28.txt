@@ -1,0 +1,58 @@
+1. void minus1()
+{
+	int a = 5, int b = 3;
+	printf("%d - %d = %d\n", a, b, a-b);
+}
+
+2. void minus2(int a, int b)
+{
+	printf("%d - %d = %d\n", a, b, a-b);
+}
+
+3. void minus3()
+{
+	int a = 5, int b = 3;
+	retunn(a-b);
+}
+
+4. void minus4(int a, int b)
+{
+	retunn(a-b);
+}
+
+함수호출
+void main()
+{
+	minus1();
+	minus2(10, 20); //매개변수 입력
+	printf("minus3() 함수의 값 = %d\n" minus3()); // 반환값
+	printf("minus4() 함수의 값 = %d\n" minus4(20, 5)); //매개변수+반환값
+}
+
+
+// 
+
+using System.Security.Cryptography.X509Certificates;
+
+class program
+{
+    class Test // 함수 선언(정의)
+    {
+        public int Power(int x)
+        {
+            return x * x;
+        }
+    }
+
+    static void Main(string[] args) // 함수 사용
+    {
+        Test test = new Test();
+        Console.Write("숫자입력1 :");
+        int a = int.Parse(Console.ReadLine());
+        Console.WriteLine(test.Power(a));
+        Console.Write("숫자입력2 :");
+        int b = int.Parse(Console.ReadLine()); 
+        Console.WriteLine(test.Power(b));
+    }
+}
+
