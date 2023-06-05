@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#조예찬\6월5일-1\bin\Debug\net7.0-windows\6월5일-1.exe
+C:\Users\User\Desktop\c#조예찬\6월5일-1\bin\Debug\net7.0-windows\6월5일-1.deps.json
+C:\Users\User\Desktop\c#조예찬\6월5일-1\bin\Debug\net7.0-windows\6월5일-1.runtimeconfig.json
+C:\Users\User\Desktop\c#조예찬\6월5일-1\bin\Debug\net7.0-windows\6월5일-1.dll
+C:\Users\User\Desktop\c#조예찬\6월5일-1\bin\Debug\net7.0-windows\6월5일-1.pdb
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\_6월5일_1.Form1.resources
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.AssemblyInfo.cs
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.dll
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\refint\6월5일-1.dll
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.pdb
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\6월5일-1.genruntimeconfig.cache
+C:\Users\User\Desktop\c#조예찬\6월5일-1\obj\Debug\net7.0-windows\ref\6월5일-1.dll
