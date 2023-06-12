@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\_6월12일_2.Form1.resources
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.AssemblyInfo.cs
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#조예찬\6월12일_2\bin\Debug\net7.0-windows\6월12일_2.exe
+C:\Users\User\Desktop\c#조예찬\6월12일_2\bin\Debug\net7.0-windows\6월12일_2.deps.json
+C:\Users\User\Desktop\c#조예찬\6월12일_2\bin\Debug\net7.0-windows\6월12일_2.runtimeconfig.json
+C:\Users\User\Desktop\c#조예찬\6월12일_2\bin\Debug\net7.0-windows\6월12일_2.dll
+C:\Users\User\Desktop\c#조예찬\6월12일_2\bin\Debug\net7.0-windows\6월12일_2.pdb
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.dll
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\refint\6월12일_2.dll
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.pdb
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\6월12일_2.genruntimeconfig.cache
+C:\Users\User\Desktop\c#조예찬\6월12일_2\obj\Debug\net7.0-windows\ref\6월12일_2.dll
