@@ -1,0 +1,15 @@
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.csproj.AssemblyReference.cache
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.AssemblyInfoInputs.cache
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.AssemblyInfo.cs
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.csproj.CoreCompileInputs.cache
+/Users/yechanjo/c#_programing/연습용/bin/Debug/net7.0/연습용
+/Users/yechanjo/c#_programing/연습용/bin/Debug/net7.0/연습용.deps.json
+/Users/yechanjo/c#_programing/연습용/bin/Debug/net7.0/연습용.runtimeconfig.json
+/Users/yechanjo/c#_programing/연습용/bin/Debug/net7.0/연습용.dll
+/Users/yechanjo/c#_programing/연습용/bin/Debug/net7.0/연습용.pdb
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.dll
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/refint/연습용.dll
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.pdb
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/연습용.genruntimeconfig.cache
+/Users/yechanjo/c#_programing/연습용/obj/Debug/net7.0/ref/연습용.dll
